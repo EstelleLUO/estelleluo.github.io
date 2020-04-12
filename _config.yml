@@ -15,8 +15,8 @@ cover: assets/images/blog-cover.jpg
 # logo: assets/images/blog-cover.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://github.com/EstelleLUO/estelleluo.github.io
-source_url: https://github.com/EstelleLUO/estelleluo.github.io
+production_url: https://estelleluo.github.io/
+source_url: https://github.com/EstelleLUO/estelleluo.github.io/
 CNAME: #add cname for website to be created
 
 # Social info
@@ -69,13 +69,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: estelleluo
+username: EstelleLUO
 repo: estelleluo.github.io
 branch: master
 relative_source: ../estelleluo.github.io/
-destination: ../estelleluo-page/
-production_url:  https://github.com/EstelleLUO/estelleluo.github.io
-source_url:  https://github.com/EstelleLUO/estelleluo.github.io
+destination: ../estelleluo.github.io-page/
+production_url:  https://estelleluo.github.io/
+source_url:  https://github.com/EstelleLUO/estelleluo.github.io/
 
 exclude:
   - assets/css
