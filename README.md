@@ -1,10 +1,7 @@
-Hux Blog
+Estelle 
 ========
 
-### [View alive Hux Blog &rarr;](https://huangxuan.me)  
-
-![](http://huangxuan.me/img/blog-desktop.jpg)
-
+### [View alive Estelle's Blog &rarr;](https://estelleluo.github.io/)  
 
 Boilerplate (beta)
 ------------------

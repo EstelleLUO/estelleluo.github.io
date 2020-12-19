@@ -1,14 +1,14 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "estelle-blog",
+    "title": "Estelle Blog",
+    "author": "Estelle <wenboluo.aiesec@gmail.com>",
     "version": "1.8.2",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "https://estelleluo.github.io/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/EstelleLUO/estelleluo.github.io"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+    "bugs": "https://github.com/EstelleLUO/estelleluo.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
@@ -17,9 +17,9 @@
         "grunt-contrib-uglify": "~0.5.1"
     },
     "scripts": {
-        "start" : "jekyll serve -w -l --host 0.0.0.0 --port 4000",
-        "dev"   : "grunt watch & npm run start",
-        "boil"  : "git push boilerplate boilerplate:master",
-        "push"  : "git push origin master --tag"
+        "start": "jekyll serve -w -l --host 0.0.0.0 --port 4000",
+        "dev": "grunt watch & npm run start",
+        "boil": "git push boilerplate boilerplate:master",
+        "push": "git push origin master --tag"
     }
 }

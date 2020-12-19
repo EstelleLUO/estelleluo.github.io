@@ -28,10 +28,10 @@ module.exports = function(grunt) {
                 }
             }
         },
-        banner: '/*!\n' +
-            ' * <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n' +
-            ' * Copyright <%= grunt.template.today("yyyy") %> <%= pkg.author %>\n' +
-            ' */\n',
+        // banner: '/*!\n' +
+        //     ' * <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n' +
+        //     ' * Copyright <%= grunt.template.today("yyyy") %> <%= pkg.author %>\n' +
+        //     ' */\n',
         usebanner: {
             dist: {
                 options: {
