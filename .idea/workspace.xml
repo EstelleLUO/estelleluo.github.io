@@ -20,36 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e15096c-bb28-4261-aec0-7afd7409c27e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-08-01-PycharmAndIntelliJ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gruntfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estelle-blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estelle-blog.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/avatar-hux-home.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/avatar-hux-ny.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/avatar-hux-ny.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/avatar-hux.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/avatar-hux.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/intro-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/intro-header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/archive.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/hux-blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/estelle-blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/hux-blog.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/estelle-blog.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/hux-blog.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/estelle-blog.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -76,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608231855579</updated>
-      <workItem from="1608231857058" duration="11537000" />
+      <workItem from="1608231857058" duration="15076000" />
     </task>
     <servers />
   </component>
