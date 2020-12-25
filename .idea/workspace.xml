@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e15096c-bb28-4261-aec0-7afd7409c27e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-25-happy-christmas.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/investment/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
@@ -39,6 +41,7 @@
       <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/friends.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/intro-header.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/mathjax_support.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/multilingual-sel.html" beforeDir="false" />
@@ -51,10 +54,25 @@
       <change beforePath="$PROJECT_DIR$/_layouts/keynote.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-20-the-forest-in-the-fog.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/blog/investment/2017-08-20-the-forest-in-the-fog.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-21-time-to-think.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-22-snowboarding-and-my-life.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-23-meeting-with-adventures.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-24-i-meet-the-sunset.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-25-i-conquer-the-himalayas.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-04-20-hello-blog.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-08-01-PycharmAndIntelliJ.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/adam-blog-imac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/adam-face.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/adam-home-page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/adam-post-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post-5.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
@@ -218,9 +236,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/investment" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/investment" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -230,7 +253,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608231855579</updated>
-      <workItem from="1608231857058" duration="19360000" />
+      <workItem from="1608231857058" duration="24898000" />
     </task>
     <servers />
   </component>
@@ -257,6 +280,10 @@
       <screen x="0" y="23" width="1600" height="877" />
     </state>
     <state x="0" y="373" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1600.877@0.23.1600.877" timestamp="1608401125705" />
+    <state x="729" y="304" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608915304711">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="729" y="304" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1600.877@0.23.1600.877" timestamp="1608915304711" />
     <state width="1420" height="206" key="GridCell.Tab.0.bottom" timestamp="1608236704307">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
